@@ -1,3 +1,1 @@
-👋 Hi, I’m @madebydevon
-
 # Setting up...
